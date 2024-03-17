@@ -400,7 +400,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://pdf1.alldatasheetcn.com/datasheet-pdf/view/489405/TI/TCA9517DR.html"
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/tca9517.pdf"
 			(at 0 -25.4 0)
 			(effects
 				(font
@@ -409,7 +409,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Level-Translating I2C Bus Buffer/Repeater, SOIC-8"
+		(property "Description" "Level-Translating I2C Bus Buffer/Repeater, SOIC-8, Device has been announced but is not in production. Samples may or may not be available."
 			(at 0 -22.86 0)
 			(effects
 				(font
@@ -418,7 +418,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_keywords" "I2C buffer repeater"
+		(property "ki_keywords" "Samples I2C buffer repeater"
 			(at 0 0 0)
 			(effects
 				(font
