@@ -371,7 +371,7 @@
 			)
 		)
 	)
-	(symbol "TCA9417D"
+	(symbol "TCA9517D"
 		(extends "TCA9517ADGK")
 		(property "Reference" "U"
 			(at -10.16 11.43 0)
@@ -409,7 +409,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Level-Translating I2C Bus Buffer/Repeater, SOIC-8, Device has been announced but is not in production. Samples may or may not be available."
+		(property "Description" "Level-Translating I2C Bus Buffer/Repeater With Enable Function, SOIC-8"
 			(at 0 -22.86 0)
 			(effects
 				(font
@@ -418,7 +418,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_keywords" "Samples I2C buffer repeater"
+		(property "ki_keywords" "I2C buffer repeater"
 			(at 0 0 0)
 			(effects
 				(font
